@@ -1,6 +1,5 @@
 - HI Guys , I am Mochizuki Ken , I am a 16 years old boy from Hong Kong
-- since 2021, I fall in love with Coding , and my dream is to Join Google and become someone like Steve Jobs Finally. Although it's sound's CRAZY.
-
+- 
 ⚙️ Here is My Skills Intro:
 👨‍💻WEB DEVELOPMENT
   Front-End:
