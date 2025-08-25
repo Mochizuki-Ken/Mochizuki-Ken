@@ -42,4 +42,5 @@
   -SQL
 
   ✉️Contact Me
-  Email : mochizuki.ken0101@gmail.com
+  Email : jasonken2007@gmail.com
+
